@@ -1,0 +1,9 @@
+.form-input.error,
+.form-textarea.error,
+.form-select.error {
+    @apply border-red-500 focus:ring focus:ring-red-200;
+}
+
+.form-error {
+    @apply text-red-700 mt-2 text-sm;
+}
