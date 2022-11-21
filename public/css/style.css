@@ -273,7 +273,7 @@ z-index: 9;
 }
 
 .product-f-image img{
-
+    width: 100%;
     height: 300px;
 }
 
