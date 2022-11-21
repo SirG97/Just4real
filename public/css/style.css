@@ -14,7 +14,7 @@
 }
 a:focus { outline: 0px solid }
 img {
-    max-width: 100%;
+    width: 100%;
     height: 400px;
 }
 .fix { overflow: hidden }
