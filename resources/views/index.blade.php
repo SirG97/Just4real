@@ -91,76 +91,49 @@
                             <div class="single-product">
                                 <div class="product-f-image">
                                     <img src="img/benchweight.jpg" alt="">
-                                    <div class="product-hover">
-                                        <!-- <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a> -->
-                                        <a href="#" class="view-details-link"><i class="fa fa-link"></i> See details</a>
-                                    </div>
+
                                 </div>
 
                                 <h2><a href="#">Benchweights</a></h2>
-                                <!-- <div class="product-carousel-price">
-                                    <ins>$899.00</ins> <del>$999.00</del>
-                                </div>  -->
+
                             </div>
                             <div class="single-product">
                                 <div class="product-f-image">
                                     <img src="img/benchweight2.jpg" alt="">
-                                    <div class="product-hover">
-                                        <!-- <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a> -->
-                                        <a href="#" class="view-details-link"><i class="fa fa-link"></i> See details</a>
-                                    </div>
+
                                 </div>
 
                                 <h2><a href="#">Benchweight</a></h2>
 
-                                <!-- <div class="product-carousel-price">
-                                    <ins>$400.00</ins> <del>$425.00</del>
-                                </div>                                  -->
+
                             </div>
                             <div class="single-product">
                                 <div class="product-f-image">
                                     <img src="img/dumbell.jpg" alt="">
-                                    <div class="product-hover">
-                                        <!-- <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a> -->
-                                        <a href="#" class="view-details-link"><i class="fa fa-link"></i> See details</a>
-                                    </div>
+
                                 </div>
 
                                 <h2><a href="#">Dumbells</a></h2>
 
-                                <!-- <div class="product-carousel-price">
-                                    <ins>$200.00</ins> <del>$225.00</del>
-                                </div>                             -->
                             </div>
                             <div class="single-product">
                                 <div class="product-f-image">
                                     <img src="img/Sit-Up-Benches.jpg" alt="">
-                                    <div class="product-hover">
-                                        <!-- <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a> -->
-                                        <a href="#" class="view-details-link"><i class="fa fa-link"></i> See details</a>
-                                    </div>
+
                                 </div>
 
                                 <h2><a href="#">Sit-up Benchs</a></h2>
 
-                                <!-- <div class="product-carousel-price">
-                                    <ins>$1200.00</ins> <del>$1355.00</del>
-                                </div>                                  -->
                             </div>
                             <div class="single-product">
                                 <div class="product-f-image">
                                     <img src="img/Multipurposebench.jpg" alt="">
-                                    <div class="product-hover">
-                                        <!-- <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a> -->
-                                        <a href="#" class="view-details-link"><i class="fa fa-link"></i> See details</a>
-                                    </div>
+
                                 </div>
 
                                 <h2><a href="#">Multipurpose Benchpress</a></h2>
 
-                                <!-- <div class="product-carousel-price">
-                                    <ins>$400.00</ins>
-                                </div>                             -->
+
                             </div>
                         </div>
                     </div>
@@ -174,10 +147,7 @@
                             <div class="single-product">
                                 <div class="product-f-image">
                                     <img src="img/tabletennis.jpg" alt="">
-                                    <div class="product-hover">
-                                        <!-- <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a> -->
-                                        <a href="#" class="view-details-link"><i class="fa fa-link"></i> See details</a>
-                                    </div>
+
                                 </div>
 
                                 <h2><a href="#">Table Tennis board</a></h2>
@@ -187,17 +157,12 @@
                             <div class="single-product">
                                 <div class="product-f-image">
                                     <img src="img/jersey.jpg" alt="">
-                                    <div class="product-hover">
-                                        <!-- <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a> -->
-                                        <a href="#" class="view-details-link"><i class="fa fa-link"></i> See details</a>
-                                    </div>
+
                                 </div>
 
                                 <h2><a href="#">Customized jersey</a></h2>
 
-                                <!-- <div class="product-carousel-price">
-                                    <ins>$700.00</ins> <del>$800.00</del>
-                                </div>  -->
+
                             </div>
                             <div class="single-product">
                                 <div class="product-f-image">
@@ -206,9 +171,7 @@
                                 </div>
 
                                 <h2><a href="#">Goalkeeping gloves</a></h2>
-                                <!-- <div class="product-carousel-price">
-                                    <ins>$899.00</ins> <del>$999.00</del>
-                                </div>  -->
+
                             </div>
                             <div class="single-product">
                                 <div class="product-f-image">
@@ -218,55 +181,37 @@
 
                                 <h2><a href="#">Football boots</a></h2>
 
-                                <!-- <div class="product-carousel-price">
-                                    <ins>$400.00</ins> <del>$425.00</del>
-                                </div>                                  -->
+
                             </div>
 
                             <div class="single-product">
                                 <div class="product-f-image">
                                     <img src="img/shinguard.webp" alt="">
-                                    <div class="product-hover">
-                                        <!-- <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a> -->
-                                        <a href="#" class="view-details-link"><i class="fa fa-link"></i> See details</a>
-                                    </div>
+
                                 </div>
 
                                 <h2><a href="#">Shin guards</a></h2>
 
-                                <!-- <div class="product-carousel-price">
-                                    <ins>$200.00</ins> <del>$225.00</del>
-                                </div>                             -->
+
                             </div>
                             <div class="single-product">
                                 <div class="product-f-image">
                                     <img src="img/soccer.jpg" alt="">
-                                    <div class="product-hover">
-                                        <!-- <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a> -->
-                                        <a href="#" class="view-details-link"><i class="fa fa-link"></i> See details</a>
-                                    </div>
+
                                 </div>
 
                                 <h2><a href="#">Soccer boots</a></h2>
 
-                                <!-- <div class="product-carousel-price">
-                                    <ins>$1200.00</ins> <del>$1355.00</del>
-                                </div>                                  -->
+
                             </div>
                             <div class="single-product">
                                 <div class="product-f-image">
                                     <img src="img/socks.jpg" alt="">
-                                    <div class="product-hover">
-                                        <!-- <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a> -->
-                                        <a href="#" class="view-details-link"><i class="fa fa-link"></i> See details</a>
-                                    </div>
+
                                 </div>
 
                                 <h2><a href="#">Soccer socks</a></h2>
 
-                                <!-- <div class="product-carousel-price">
-                                    <ins>$400.00</ins>
-                                </div>                             -->
                             </div>
 
                         </div>
@@ -285,60 +230,40 @@
                             <div class="single-product">
                                 <div class="product-f-image">
                                     <img src="img/spareparts/toyota-motor.jpg" alt="">
-                                    <div class="product-hover">
 
-                                        <a href="#" class="view-details-link"><i class="fa fa-link"></i> See details</a>
-                                    </div>
                                 </div>
 
                                 <h2><a href="#">Vehicle Engines</a></h2>
 
-                                <!-- <div class="product-carousel-price">
-                                    <ins>$700.00</ins> <del>$800.00</del>
-                                </div>  -->
+
                             </div>
                             <div class="single-product">
                                 <div class="product-f-image">
                                     <img src="img/spareparts/bumper.webp" alt="">
-                                    <div class="product-hover">
-                                        <a href="#" class="view-details-link"><i class="fa fa-link"></i> See details</a>
-                                    </div>
+
                                 </div>
 
                                 <h2><a href="#">Car Bumper</a></h2>
-                                <!-- <div class="product-carousel-price">
-                                    <ins>$899.00</ins> <del>$999.00</del>
-                                </div>  -->
+
                             </div>
                             <div class="single-product">
                                 <div class="product-f-image">
                                     <img src="img/spareparts/radiator.jpg" alt="">
-                                    <div class="product-hover">
 
-                                        <a href="#" class="view-details-link"><i class="fa fa-link"></i> See details</a>
-                                    </div>
                                 </div>
 
                                 <h2><a href="#">Vehicle radiator</a></h2>
 
-                                <!-- <div class="product-carousel-price">
-                                    <ins>$400.00</ins> <del>$425.00</del>
-                                </div>                                  -->
+
                             </div>
                             <div class="single-product">
                                 <div class="product-f-image">
                                     <img src="img/spareparts/shockabsorbers.jpg" alt="">
-                                    <div class="product-hover">
 
-                                        <a href="#" class="view-details-link"><i class="fa fa-link"></i> See details</a>
-                                    </div>
                                 </div>
 
                                 <h2><a href="#">Shock Absorber</a></h2>
 
-                                <!-- <div class="product-carousel-price">
-                                    <ins>$200.00</ins> <del>$225.00</del>
-                                </div>                             -->
                             </div>
                             <div class="single-product">
                                 <div class="product-f-image">
@@ -348,9 +273,6 @@
 
                                 <h2><a href="#">Steering rack</a></h2>
 
-                                <!-- <div class="product-carousel-price">
-                                    <ins>$1200.00</ins> <del>$1355.00</del>
-                                </div>                                  -->
                             </div>
                             <div class="single-product">
                                 <div class="product-f-image">
@@ -360,9 +282,6 @@
 
                                 <h2><a href="#">Rear light</a></h2>
 
-                                <!-- <div class="product-carousel-price">
-                                    <ins>$400.00</ins>
-                                </div>                             -->
                             </div>
 
                             <div class="single-product">
@@ -402,10 +321,6 @@
                                 </div>
 
                                 <h2><a href="#">Box wine</a></h2>
-
-                                <!-- <div class="product-carousel-price">
-                                    <ins>$700.00</ins> <del>$800.00</del>
-                                </div>  -->
                             </div>
                             <div class="single-product">
                                 <div class="product-f-image">
@@ -421,10 +336,7 @@
                             <div class="single-product">
                                 <div class="product-f-image">
                                     <img src="img/redwine.webp" alt="">
-                                    <div class="product-hover">
 
-                                        <a href="#" class="view-details-link"><i class="fa fa-link"></i> See details</a>
-                                    </div>
                                 </div>
 
                                 <h2><a href="#">Redwine</a></h2>
