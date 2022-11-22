@@ -29,8 +29,7 @@
                                         <div class="col-md-6 col-md-offset-6">
                                             <div class="slide-content">
                                                 <h2>We are Reliable</h2>
-                                                <p>Just4real International Limited imports all types of gym equipments,
-                                                    sports equipments, vehicle engines & spare parts and wines from USA, Europe and China!</p>
+                                                <p>Just4real International Limited imports all types of gym/sports equipments, vehicle, engines/spare parts and wines from USA, Europe and China.</p>
                                                 <p>We are 100% reliable, tested and trusted.</p>
                                                 <a href="/contact" class="readmore">Learn more</a>
                                             </div>
@@ -54,7 +53,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="single-promo">
                         <i class="fa fa-dumbell"></i>
-                        <p>Gym Equipment</p>
+                        <p>Gym Equipments</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6">
@@ -66,7 +65,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="single-promo">
                         <i class="fa fa-ball"></i>
-                        <p>Car Engine Parts</p>
+                        <p>Vehicle, Engines/Spare Parts</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6">

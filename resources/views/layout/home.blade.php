@@ -61,7 +61,7 @@
                     <li class="{{ (request()->is('/')) ? 'active' : '' }}"><a href="/">Home</a></li>
                     <li class="{{ (request()->is('gym')) ? 'active' : '' }}"><a href="/gym">Gym Equipments</a></li>
                     <li class="{{ (request()->is('sports')) ? 'active' : '' }}"><a href="/sports">Sports Equipments</a></li>
-                    <li class="{{ (request()->is('spare-parts')) ? 'active' : '' }}"><a href="/spare-parts">Vehicle Engines & Spare Parts</a></li>
+                    <li class="{{ (request()->is('spare-parts')) ? 'active' : '' }}"><a href="/spare-parts">Vehicle, Engines & Spare Parts</a></li>
                     <li class="{{ (request()->is('wines')) ? 'active' : '' }}"><a href="/wines">Wines</a></li>
                     <li class="{{ (request()->is('contact')) ? 'active' : '' }}"><a href="/contact">Contact us</a></li>
                 </ul>
