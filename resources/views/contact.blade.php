@@ -29,7 +29,7 @@
                         <h5><a href="#">Phone</a></h5>
                         <p>+2348033359211</p>
                         <p>+2348060403133</p>
-                        <p>Jude Ifeanyi M.</p>
+                        <p>Jude Ifeanyi M.(CEO)</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
