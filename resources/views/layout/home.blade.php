@@ -40,7 +40,7 @@
                 <div class="logo">
                     <h1>
                         <a href="/">
-                            <img src="/img/just4real.png" alt="" style="width:40px; height: 40px; border-radius: 10px">
+                            <img src="/img/logo.jpg" alt="" style="width:40px; height: 40px; border-radius: 10px">
                             <span>JUST4REAL INTERNATIONAL LIMITED</span>
                         </a>
                     </h1>
@@ -83,7 +83,7 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="copyright" style="margin-top: 7px;">
-                    <img src="/img/just4real.png" alt="" style="width:40px; height: 40px; border-radius: 10px">
+                    <img src="/img/logo.jpg" alt="" style="width:40px; height: 40px; border-radius: 10px">
                     <p style="display: inline">Just4real International Limited</p>
                 </div>
             </div>
